@@ -18,7 +18,7 @@ Build a production-grade web server covering:
 | **Network**    | IPv6, OSPF/BGP, ICMP, QUIC               |
 | **Link**       | Ethernet, ARP, LTE/5G Handoffs           |
 | **Security**   | TLS, IPsec, Firewall, GDPR Compliance    |
-| **Monitoring** | Prometheus, NetFlow, Web Dashboard      |
+| **Monitoring** | Prometheus, NetFlow, Web Dashboard       |
 
 ## **🚀 Quick Start**
 ```bash
